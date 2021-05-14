@@ -7,5 +7,22 @@ I'm the creator of this repo. All the codes were written by me, and I own the co
 Python 3.6
 OpenAI Gym
 
+##
+Regression: 
+   Vanilla RNN, 
+   GRU, 
+   LSTM, 
+   Transformer
 
-![alt text](https://github.com/Yannibigeyes/RRT-BFS-Motion-planning/blob/main/RRT_50Hz.jpeg)
+Classification: 
+   Vanilla RNN, 
+   GRU, 
+   LSTM, 
+   CNN
+
+Deep Reinforcement learning: (I wrap them into packages , so you can call the model directly)
+   DQN, 
+   Double DQN,
+   Dueling DQN,
+   Prioritized DQN,
+   Rainbow DQN
