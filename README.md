@@ -5,6 +5,9 @@ I'm the creator of this repo. All the codes were written by me, and I own the co
 
 ## Environment
 Python 3.6
+
+Pytorch
+
 OpenAI Gym
 
 ##
