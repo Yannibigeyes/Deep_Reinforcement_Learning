@@ -10,22 +10,15 @@ Pytorch
 
 OpenAI Gym
 
-##
-Regression: 
-   Vanilla RNN, 
-   GRU, 
-   LSTM, 
-   Transformer
+## Model
+(I wrap them into packages , so you can call the model directly)
 
-Classification: 
-   Vanilla RNN, 
-   GRU, 
-   LSTM, 
-   CNN
+DQN
 
-Deep Reinforcement learning: (I wrap them into packages , so you can call the model directly)
-   DQN, 
-   Double DQN,
-   Dueling DQN,
-   Prioritized DQN,
-   Rainbow DQN
+Double DQN
+
+Dueling DQN
+
+Prioritized DQN
+
+Rainbow DQN (does not contain categorical DQN)
